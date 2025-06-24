@@ -1,0 +1,2 @@
+# ISEP-SCOMP
+SCOMP Exercises
